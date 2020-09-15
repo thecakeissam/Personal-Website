@@ -4,7 +4,10 @@
 
 .App-logo {
   height: 40vmin;
-  pointer-events: none;
+}
+
+.App-logo:hover {
+  height: 80vmin;
 }
 
 @media (prefers-reduced-motion: no-preference) {
